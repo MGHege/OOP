@@ -1,0 +1,14 @@
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/bin/Debug/net6.0/5. StackOfStrings
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/bin/Debug/net6.0/5. StackOfStrings.deps.json
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/bin/Debug/net6.0/5. StackOfStrings.runtimeconfig.json
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/bin/Debug/net6.0/5. StackOfStrings.dll
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/bin/Debug/net6.0/5. StackOfStrings.pdb
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/obj/Debug/net6.0/5. StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/obj/Debug/net6.0/5. StackOfStrings.AssemblyInfoInputs.cache
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/obj/Debug/net6.0/5. StackOfStrings.AssemblyInfo.cs
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/obj/Debug/net6.0/5. StackOfStrings.csproj.CoreCompileInputs.cache
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/obj/Debug/net6.0/5. StackOfStrings.dll
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/obj/Debug/net6.0/refint/5. StackOfStrings.dll
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/obj/Debug/net6.0/5. StackOfStrings.pdb
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/obj/Debug/net6.0/5. StackOfStrings.genruntimeconfig.cache
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/5. StackOfStrings/obj/Debug/net6.0/ref/5. StackOfStrings.dll

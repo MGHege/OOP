@@ -1,0 +1,14 @@
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/bin/Debug/net6.0/04. RandomList
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/bin/Debug/net6.0/04. RandomList.deps.json
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/bin/Debug/net6.0/04. RandomList.runtimeconfig.json
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/bin/Debug/net6.0/04. RandomList.dll
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/bin/Debug/net6.0/04. RandomList.pdb
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/obj/Debug/net6.0/04. RandomList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/obj/Debug/net6.0/04. RandomList.AssemblyInfoInputs.cache
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/obj/Debug/net6.0/04. RandomList.AssemblyInfo.cs
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/obj/Debug/net6.0/04. RandomList.csproj.CoreCompileInputs.cache
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/obj/Debug/net6.0/04. RandomList.dll
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/obj/Debug/net6.0/refint/04. RandomList.dll
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/obj/Debug/net6.0/04. RandomList.pdb
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/obj/Debug/net6.0/04. RandomList.genruntimeconfig.cache
+/Users/mihaelahege/Projects/Advance.OOP/Inheritance/04. RandomList/obj/Debug/net6.0/ref/04. RandomList.dll

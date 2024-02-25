@@ -1,0 +1,16 @@
+﻿namespace CustomStack;
+public class StartUp
+{
+    static void Main(string[] args)
+    {
+        StackOfStrings stack = new StackOfStrings();
+        Console.WriteLine(stack);
+        stack.AddRenge(new List<string>() { "1","2","3","4"});
+        Console.WriteLine(stack);
+        foreach (var item in stack)
+        {
+            Console.WriteLine(item);
+        }
+    }
+}
+
